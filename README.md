@@ -21,3 +21,5 @@ This Project Described how to using J2EE to create a simple web application with
 * HTML
 * CSS
 * JSTL
+
+© 2020 HaseoLeonard | facebook.com/okaminoizanagi
